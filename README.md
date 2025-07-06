@@ -49,7 +49,7 @@ The interactive dashboard was built using **Power BI Desktop**, leveraging its p
 Here is a visual preview of the dashboard's main page:
 
 ### Overview Page
-![Overview Page Snapshot](Snapshots/Global_Power_Plants_Overview.png)
+[![Overview Page Snapshot](Snapshots/Global_Power_Plants_Overview.png)](https://github.com/MohammedAhmed-96/Global-Power-Plants-Dashboard-Project/blob/f971166b80923631cd28601f6d876f917ece73bc/Global_Power_Plants_Dashboard_Project/Snapshots/Global_Power_Plants_Overview.png)
 
 ## Files in this Repository
 -   `README.md`: This file, providing a comprehensive overview of the project.
